@@ -1,0 +1,1866 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:" content="urn:uuid:17c0e6e7-c014-4948-b4a4-e39d6fdd869b" />
+    <meta name="dtb:generator" content="EPUBLib version 3.0" />
+    <meta name="dtb:depth" content="4" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>医学影像学</text>
+  </docTitle>
+  <docAuthor>
+    <text>许茂盛, 侯键</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="coverpage.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>专家指导委员会</text>
+      </navLabel>
+      <content src="Preface03.xhtml#hanvon_toc_0" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>编审专家组</text>
+      </navLabel>
+      <content src="Preface04.xhtml#hanvon_toc_1" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="Preface05.xhtml#hanvon_toc_2" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>编写说明</text>
+      </navLabel>
+      <content src="Preface06.xhtml#hanvon_toc_3" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="content.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>第一篇总论</text>
+      </navLabel>
+      <content src="Part01.xhtml#hanvon_toc_4" />
+      <navPoint id="navPoint-8" playOrder="8" class="chapter">
+        <navLabel>
+          <text>第一章学科发展与学科概念</text>
+        </navLabel>
+        <content src="Part01.xhtml#hanvon_toc_5" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>第二章影像设备与临床应用</text>
+        </navLabel>
+        <content src="Part01.xhtml#hanvon_toc_6" />
+        <navPoint id="navPoint-10" playOrder="10" class="chapter">
+          <navLabel>
+            <text>第一节X线成像</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_7" />
+          <navPoint id="navPoint-11" playOrder="11" class="chapter">
+            <navLabel>
+              <text>一、X线成像原理</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_8" />
+          </navPoint>
+          <navPoint id="navPoint-12" playOrder="12" class="chapter">
+            <navLabel>
+              <text>二、X线设备与检查技术</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_9" />
+          </navPoint>
+          <navPoint id="navPoint-13" playOrder="13" class="chapter">
+            <navLabel>
+              <text>三、X线图像特点</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_10" />
+          </navPoint>
+          <navPoint id="navPoint-14" playOrder="14" class="chapter">
+            <navLabel>
+              <text>四、X线的临床应用及限度</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_11" />
+          </navPoint>
+          <navPoint id="navPoint-15" playOrder="15" class="chapter">
+            <navLabel>
+              <text>五、X线的防护</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_12" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16" class="chapter">
+          <navLabel>
+            <text>第二节计算机体层扫描成像</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_13" />
+          <navPoint id="navPoint-17" playOrder="17" class="chapter">
+            <navLabel>
+              <text>一、计算机体层扫描成像原理</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_14" />
+          </navPoint>
+          <navPoint id="navPoint-18" playOrder="18" class="chapter">
+            <navLabel>
+              <text>二、计算机体层扫描检查技术</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_15" />
+          </navPoint>
+          <navPoint id="navPoint-19" playOrder="19" class="chapter">
+            <navLabel>
+              <text>三、计算机体层扫描图像的特点</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_16" />
+          </navPoint>
+          <navPoint id="navPoint-20" playOrder="20" class="chapter">
+            <navLabel>
+              <text>四、计算机体层扫描成像的临床应用与检查限度</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_17" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-21" playOrder="21" class="chapter">
+          <navLabel>
+            <text>第三节磁共振成像</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_18" />
+          <navPoint id="navPoint-22" playOrder="22" class="chapter">
+            <navLabel>
+              <text>一、磁共振成像装置的设备构成</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_19" />
+          </navPoint>
+          <navPoint id="navPoint-23" playOrder="23" class="chapter">
+            <navLabel>
+              <text>二、磁共振成像原理</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_20" />
+          </navPoint>
+          <navPoint id="navPoint-24" playOrder="24" class="chapter">
+            <navLabel>
+              <text>三、磁共振成像的检查技术</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_21" />
+          </navPoint>
+          <navPoint id="navPoint-25" playOrder="25" class="chapter">
+            <navLabel>
+              <text>四、磁共振成像图像的特点</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_22" />
+          </navPoint>
+          <navPoint id="navPoint-26" playOrder="26" class="chapter">
+            <navLabel>
+              <text>五、磁共振成像的优势与限度</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_23" />
+          </navPoint>
+          <navPoint id="navPoint-27" playOrder="27" class="chapter">
+            <navLabel>
+              <text>六、磁共振成像的临床应用</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_24" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28" class="chapter">
+          <navLabel>
+            <text>第四节核医学成像</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_25" />
+          <navPoint id="navPoint-29" playOrder="29" class="chapter">
+            <navLabel>
+              <text>一、成像原理及成像设备</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_26" />
+          </navPoint>
+          <navPoint id="navPoint-30" playOrder="30" class="chapter">
+            <navLabel>
+              <text>二、检查技术与图像特点</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_27" />
+          </navPoint>
+          <navPoint id="navPoint-31" playOrder="31" class="chapter">
+            <navLabel>
+              <text>三、核医学成像的临床应用</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_28" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32" class="chapter">
+          <navLabel>
+            <text>第五节超声成像</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_29" />
+          <navPoint id="navPoint-33" playOrder="33" class="chapter">
+            <navLabel>
+              <text>一、超声成像概述</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_30" />
+          </navPoint>
+          <navPoint id="navPoint-34" playOrder="34" class="chapter">
+            <navLabel>
+              <text>二、超声仪器的类型</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_31" />
+          </navPoint>
+          <navPoint id="navPoint-35" playOrder="35" class="chapter">
+            <navLabel>
+              <text>三、超声成像的优势与限度</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_32" />
+          </navPoint>
+          <navPoint id="navPoint-36" playOrder="36" class="chapter">
+            <navLabel>
+              <text>四、介入性超声</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_33" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37" class="chapter">
+          <navLabel>
+            <text>第六节图像解读与影像诊断思维</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_34" />
+          <navPoint id="navPoint-38" playOrder="38" class="chapter">
+            <navLabel>
+              <text>一、对患者的临床资料进行较全面的了解</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_35" />
+          </navPoint>
+          <navPoint id="navPoint-39" playOrder="39" class="chapter">
+            <navLabel>
+              <text>二、阅片时应做到全面观察、综合分析</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_36" />
+          </navPoint>
+          <navPoint id="navPoint-40" playOrder="40" class="chapter">
+            <navLabel>
+              <text>三、结合临床资料、病理与影像表现，进行综合诊断</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_37" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41" class="chapter">
+          <navLabel>
+            <text>第七节临床应用基础</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_38" />
+          <navPoint id="navPoint-42" playOrder="42" class="chapter">
+            <navLabel>
+              <text>一、检查方法的选择与注意事项</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_39" />
+          </navPoint>
+          <navPoint id="navPoint-43" playOrder="43" class="chapter">
+            <navLabel>
+              <text>二、正确书写会诊单</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_40" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44" class="chapter">
+          <navLabel>
+            <text>第八节图像存档和传输与信息放射学</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_41" />
+          <navPoint id="navPoint-45" playOrder="45" class="chapter">
+            <navLabel>
+              <text>一、PACS的概念与构成</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_42" />
+          </navPoint>
+          <navPoint id="navPoint-46" playOrder="46" class="chapter">
+            <navLabel>
+              <text>二、PACS的临床应用</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_43" />
+          </navPoint>
+          <navPoint id="navPoint-47" playOrder="47" class="chapter">
+            <navLabel>
+              <text>三、信息放射学</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_44" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_45" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49" class="chapter">
+        <navLabel>
+          <text>第三章医学影像学与中医学</text>
+        </navLabel>
+        <content src="Part01.xhtml#hanvon_toc_46" />
+        <navPoint id="navPoint-50" playOrder="50" class="chapter">
+          <navLabel>
+            <text>第一节中西医结合影像学的产生与发展</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_47" />
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51" class="chapter">
+          <navLabel>
+            <text>第二节  中西医结合影像学的概念</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_48" />
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52" class="chapter">
+          <navLabel>
+            <text>第三节中西医结合影像学的研究内容</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_49" />
+          <navPoint id="navPoint-53" playOrder="53" class="chapter">
+            <navLabel>
+              <text>一、中医药理论影像学研究</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_50" />
+          </navPoint>
+          <navPoint id="navPoint-54" playOrder="54" class="chapter">
+            <navLabel>
+              <text>二、中西医结合影像学实验研究</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_51" />
+          </navPoint>
+          <navPoint id="navPoint-55" playOrder="55" class="chapter">
+            <navLabel>
+              <text>三、中西医结合影像学临床研究</text>
+            </navLabel>
+            <content src="Part01.xhtml#hanvon_toc_52" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part01.xhtml#hanvon_toc_53" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57" class="chapter">
+      <navLabel>
+        <text>第二篇影像诊断学</text>
+      </navLabel>
+      <content src="Part02.xhtml#hanvon_toc_54" />
+      <navPoint id="navPoint-58" playOrder="58" class="chapter">
+        <navLabel>
+          <text>第一章呼吸系统与纵隔</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_55" />
+        <navPoint id="navPoint-59" playOrder="59" class="chapter">
+          <navLabel>
+            <text>第一节影像学检查方法</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_56" />
+          <navPoint id="navPoint-60" playOrder="60" class="chapter">
+            <navLabel>
+              <text>一、X线检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_57" />
+          </navPoint>
+          <navPoint id="navPoint-61" playOrder="61" class="chapter">
+            <navLabel>
+              <text>二、CT检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_58" />
+          </navPoint>
+          <navPoint id="navPoint-62" playOrder="62" class="chapter">
+            <navLabel>
+              <text>三、MRI检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_59" />
+          </navPoint>
+          <navPoint id="navPoint-63" playOrder="63" class="chapter">
+            <navLabel>
+              <text>四、PET/CT检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_60" />
+          </navPoint>
+          <navPoint id="navPoint-64" playOrder="64" class="chapter">
+            <navLabel>
+              <text>五、DSA检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_61" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65" class="chapter">
+          <navLabel>
+            <text>第二节正常影像学表现</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_62" />
+          <navPoint id="navPoint-66" playOrder="66" class="chapter">
+            <navLabel>
+              <text>一、正常胸部X线表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_63" />
+          </navPoint>
+          <navPoint id="navPoint-67" playOrder="67" class="chapter">
+            <navLabel>
+              <text>二、正常胸部CT表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_64" />
+          </navPoint>
+          <navPoint id="navPoint-68" playOrder="68" class="chapter">
+            <navLabel>
+              <text>三、正常胸部MRI表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_65" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69" class="chapter">
+          <navLabel>
+            <text>第三节基本病变的影像表现</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_66" />
+          <navPoint id="navPoint-70" playOrder="70" class="chapter">
+            <navLabel>
+              <text>一、支气管阻塞性病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_67" />
+          </navPoint>
+          <navPoint id="navPoint-71" playOrder="71" class="chapter">
+            <navLabel>
+              <text>二、肺部病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_68" />
+          </navPoint>
+          <navPoint id="navPoint-72" playOrder="72" class="chapter">
+            <navLabel>
+              <text>三、胸膜病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_69" />
+          </navPoint>
+          <navPoint id="navPoint-73" playOrder="73" class="chapter">
+            <navLabel>
+              <text>四、纵隔病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_70" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74" class="chapter">
+          <navLabel>
+            <text>第四节  常见疾病的影像诊断</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_71" />
+          <navPoint id="navPoint-75" playOrder="75" class="chapter">
+            <navLabel>
+              <text>一、慢性阻塞性肺疾病</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_72" />
+          </navPoint>
+          <navPoint id="navPoint-76" playOrder="76" class="chapter">
+            <navLabel>
+              <text>二、支气管扩张症</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_73" />
+          </navPoint>
+          <navPoint id="navPoint-77" playOrder="77" class="chapter">
+            <navLabel>
+              <text>三、肺炎</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_74" />
+          </navPoint>
+          <navPoint id="navPoint-78" playOrder="78" class="chapter">
+            <navLabel>
+              <text>四、肺脓肿</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_75" />
+          </navPoint>
+          <navPoint id="navPoint-79" playOrder="79" class="chapter">
+            <navLabel>
+              <text>五、肺结核</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_76" />
+          </navPoint>
+          <navPoint id="navPoint-80" playOrder="80" class="chapter">
+            <navLabel>
+              <text>六、肺肿瘤</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_77" />
+          </navPoint>
+          <navPoint id="navPoint-81" playOrder="81" class="chapter">
+            <navLabel>
+              <text>七、纵隔肿瘤与肿瘤样病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_78" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-82" playOrder="82" class="chapter">
+          <navLabel>
+            <text>第五节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_79" />
+          <navPoint id="navPoint-83" playOrder="83" class="chapter">
+            <navLabel>
+              <text>病例一</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_80" />
+          </navPoint>
+          <navPoint id="navPoint-84" playOrder="84" class="chapter">
+            <navLabel>
+              <text>病例二</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_81" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_82" />
+          <navPoint id="navPoint-86" playOrder="86" class="chapter">
+            <navLabel>
+              <text>一、肺结核的中西医结合影像学研究</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_83" />
+          </navPoint>
+          <navPoint id="navPoint-87" playOrder="87" class="chapter">
+            <navLabel>
+              <text>二、肺癌的中西医结合影像学研究</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_84" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-88" playOrder="88" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_85" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89" class="chapter">
+        <navLabel>
+          <text>第二章循环系统</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_86" />
+        <navPoint id="navPoint-90" playOrder="90" class="chapter">
+          <navLabel>
+            <text>第一节影像学检查方法</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_87" />
+          <navPoint id="navPoint-91" playOrder="91" class="chapter">
+            <navLabel>
+              <text>一、X线检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_88" />
+          </navPoint>
+          <navPoint id="navPoint-92" playOrder="92" class="chapter">
+            <navLabel>
+              <text>二、CT检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_89" />
+          </navPoint>
+          <navPoint id="navPoint-93" playOrder="93" class="chapter">
+            <navLabel>
+              <text>三、MRI检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_90" />
+          </navPoint>
+          <navPoint id="navPoint-94" playOrder="94" class="chapter">
+            <navLabel>
+              <text>四、心血管造影检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_91" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95" class="chapter">
+          <navLabel>
+            <text>第二节正常影像学表现</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_92" />
+          <navPoint id="navPoint-96" playOrder="96" class="chapter">
+            <navLabel>
+              <text>一、X线表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_93" />
+          </navPoint>
+          <navPoint id="navPoint-97" playOrder="97" class="chapter">
+            <navLabel>
+              <text>二、CT表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_94" />
+          </navPoint>
+          <navPoint id="navPoint-98" playOrder="98" class="chapter">
+            <navLabel>
+              <text>三、MRI表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_95" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99" class="chapter">
+          <navLabel>
+            <text>第三节基本病变的影像表现</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_96" />
+          <navPoint id="navPoint-100" playOrder="100" class="chapter">
+            <navLabel>
+              <text>一、心脏形态、大小异常</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_97" />
+          </navPoint>
+          <navPoint id="navPoint-101" playOrder="101" class="chapter">
+            <navLabel>
+              <text>二、心包异常</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_98" />
+          </navPoint>
+          <navPoint id="navPoint-102" playOrder="102" class="chapter">
+            <navLabel>
+              <text>三、肺循环异常</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_99" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103" class="chapter">
+          <navLabel>
+            <text>第四节常见疾病的影像诊断</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_100" />
+          <navPoint id="navPoint-104" playOrder="104" class="chapter">
+            <navLabel>
+              <text>一、冠状动脉粥样硬化性心脏病</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_101" />
+          </navPoint>
+          <navPoint id="navPoint-105" playOrder="105" class="chapter">
+            <navLabel>
+              <text>二、主动脉瘤</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_102" />
+          </navPoint>
+          <navPoint id="navPoint-106" playOrder="106" class="chapter">
+            <navLabel>
+              <text>三、主动脉夹层</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_103" />
+          </navPoint>
+          <navPoint id="navPoint-107" playOrder="107" class="chapter">
+            <navLabel>
+              <text>四、肺动脉栓塞</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_104" />
+          </navPoint>
+          <navPoint id="navPoint-108" playOrder="108" class="chapter">
+            <navLabel>
+              <text>五、肺源性心脏病</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_105" />
+          </navPoint>
+          <navPoint id="navPoint-109" playOrder="109" class="chapter">
+            <navLabel>
+              <text>六、下肢动脉粥样硬化性疾病</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_106" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110" class="chapter">
+          <navLabel>
+            <text>第五节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_107" />
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_108" />
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_109" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113" class="chapter">
+        <navLabel>
+          <text>第三章消化系统</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_110" />
+        <navPoint id="navPoint-114" playOrder="114" class="chapter">
+          <navLabel>
+            <text>第一节食管与胃肠道</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_111" />
+          <navPoint id="navPoint-115" playOrder="115" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_112" />
+          </navPoint>
+          <navPoint id="navPoint-116" playOrder="116" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_113" />
+          </navPoint>
+          <navPoint id="navPoint-117" playOrder="117" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_114" />
+          </navPoint>
+          <navPoint id="navPoint-118" playOrder="118" class="chapter">
+            <navLabel>
+              <text>四、常见疾病影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_115" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119" class="chapter">
+          <navLabel>
+            <text>第二节肝胆胰脾</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_116" />
+          <navPoint id="navPoint-120" playOrder="120" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_117" />
+          </navPoint>
+          <navPoint id="navPoint-121" playOrder="121" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_118" />
+          </navPoint>
+          <navPoint id="navPoint-122" playOrder="122" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_119" />
+          </navPoint>
+          <navPoint id="navPoint-123" playOrder="123" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_120" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124" class="chapter">
+          <navLabel>
+            <text>第三节急腹症</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_121" />
+          <navPoint id="navPoint-125" playOrder="125" class="chapter">
+            <navLabel>
+              <text>（一）胃肠道穿孔</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_122" />
+          </navPoint>
+          <navPoint id="navPoint-126" playOrder="126" class="chapter">
+            <navLabel>
+              <text>（二）肠梗阻</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_123" />
+          </navPoint>
+          <navPoint id="navPoint-127" playOrder="127" class="chapter">
+            <navLabel>
+              <text>（三）腹部外伤</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_124" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128" class="chapter">
+          <navLabel>
+            <text>第四节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_125" />
+        </navPoint>
+        <navPoint id="navPoint-129" playOrder="129" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_126" />
+          <navPoint id="navPoint-130" playOrder="130" class="chapter">
+            <navLabel>
+              <text>一、胃脘痛的中西医结合影像学研究</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_127" />
+          </navPoint>
+          <navPoint id="navPoint-131" playOrder="131" class="chapter">
+            <navLabel>
+              <text>二、肝癌的中西医结合影像学研究</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_128" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_129" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133" class="chapter">
+        <navLabel>
+          <text>第四章泌尿系统及肾上腺</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_130" />
+        <navPoint id="navPoint-134" playOrder="134" class="chapter">
+          <navLabel>
+            <text>第一节泌尿系统</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_131" />
+          <navPoint id="navPoint-135" playOrder="135" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_132" />
+          </navPoint>
+          <navPoint id="navPoint-136" playOrder="136" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_133" />
+          </navPoint>
+          <navPoint id="navPoint-137" playOrder="137" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_134" />
+          </navPoint>
+          <navPoint id="navPoint-138" playOrder="138" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_135" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139" class="chapter">
+          <navLabel>
+            <text>第二节肾上腺</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_136" />
+          <navPoint id="navPoint-140" playOrder="140" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_137" />
+          </navPoint>
+          <navPoint id="navPoint-141" playOrder="141" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_138" />
+          </navPoint>
+          <navPoint id="navPoint-142" playOrder="142" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_139" />
+          </navPoint>
+          <navPoint id="navPoint-143" playOrder="143" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_140" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-144" playOrder="144" class="chapter">
+          <navLabel>
+            <text>第三节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_141" />
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_142" />
+        </navPoint>
+        <navPoint id="navPoint-146" playOrder="146" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_143" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147" class="chapter">
+        <navLabel>
+          <text>第五章生殖系统与乳腺</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_144" />
+        <navPoint id="navPoint-148" playOrder="148" class="chapter">
+          <navLabel>
+            <text>第一节男性生殖系统</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_145" />
+          <navPoint id="navPoint-149" playOrder="149" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_146" />
+          </navPoint>
+          <navPoint id="navPoint-150" playOrder="150" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_147" />
+          </navPoint>
+          <navPoint id="navPoint-151" playOrder="151" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_148" />
+          </navPoint>
+          <navPoint id="navPoint-152" playOrder="152" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_149" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153" class="chapter">
+          <navLabel>
+            <text>第二节女性生殖系统</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_150" />
+          <navPoint id="navPoint-154" playOrder="154" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_151" />
+          </navPoint>
+          <navPoint id="navPoint-155" playOrder="155" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_152" />
+          </navPoint>
+          <navPoint id="navPoint-156" playOrder="156" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_153" />
+          </navPoint>
+          <navPoint id="navPoint-157" playOrder="157" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_154" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158" class="chapter">
+          <navLabel>
+            <text>第三节乳腺</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_155" />
+          <navPoint id="navPoint-159" playOrder="159" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_156" />
+          </navPoint>
+          <navPoint id="navPoint-160" playOrder="160" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_157" />
+          </navPoint>
+          <navPoint id="navPoint-161" playOrder="161" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_158" />
+          </navPoint>
+          <navPoint id="navPoint-162" playOrder="162" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_159" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163" class="chapter">
+          <navLabel>
+            <text>第四节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_160" />
+        </navPoint>
+        <navPoint id="navPoint-164" playOrder="164" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_161" />
+          <navPoint id="navPoint-165" playOrder="165" class="chapter">
+            <navLabel>
+              <text>一、乳腺增生症的中西医结合影像学研究</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_162" />
+          </navPoint>
+          <navPoint id="navPoint-166" playOrder="166" class="chapter">
+            <navLabel>
+              <text>二、子宫内膜癌的中西医结合影像学研究</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_163" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_164" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168" class="chapter">
+        <navLabel>
+          <text>第六章骨关节与肌肉系统</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_165" />
+        <navPoint id="navPoint-169" playOrder="169" class="chapter">
+          <navLabel>
+            <text>第一节影像学检查方法</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_166" />
+          <navPoint id="navPoint-170" playOrder="170" class="chapter">
+            <navLabel>
+              <text>一、X线检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_167" />
+          </navPoint>
+          <navPoint id="navPoint-171" playOrder="171" class="chapter">
+            <navLabel>
+              <text>二、CT检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_168" />
+          </navPoint>
+          <navPoint id="navPoint-172" playOrder="172" class="chapter">
+            <navLabel>
+              <text>三、MRI检查</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_169" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173" class="chapter">
+          <navLabel>
+            <text>第二节正常影像学表现</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_170" />
+          <navPoint id="navPoint-174" playOrder="174" class="chapter">
+            <navLabel>
+              <text>一、骨的结构和发育</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_171" />
+          </navPoint>
+          <navPoint id="navPoint-175" playOrder="175" class="chapter">
+            <navLabel>
+              <text>二、关节</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_172" />
+          </navPoint>
+          <navPoint id="navPoint-176" playOrder="176" class="chapter">
+            <navLabel>
+              <text>三、脊柱</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_173" />
+          </navPoint>
+          <navPoint id="navPoint-177" playOrder="177" class="chapter">
+            <navLabel>
+              <text>四、骨关节周围软组织</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_174" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178" class="chapter">
+          <navLabel>
+            <text>第三节基本病变的影像表现</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_175" />
+          <navPoint id="navPoint-179" playOrder="179" class="chapter">
+            <navLabel>
+              <text>一、骨骼基本病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_176" />
+          </navPoint>
+          <navPoint id="navPoint-180" playOrder="180" class="chapter">
+            <navLabel>
+              <text>二、关节基本病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_177" />
+          </navPoint>
+          <navPoint id="navPoint-181" playOrder="181" class="chapter">
+            <navLabel>
+              <text>三、软组织基本病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_178" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-182" playOrder="182" class="chapter">
+          <navLabel>
+            <text>第四节常见疾病的影像诊断</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_179" />
+          <navPoint id="navPoint-183" playOrder="183" class="chapter">
+            <navLabel>
+              <text>一、骨关节先天畸形</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_180" />
+          </navPoint>
+          <navPoint id="navPoint-184" playOrder="184" class="chapter">
+            <navLabel>
+              <text>二、骨关节创伤</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_181" />
+          </navPoint>
+          <navPoint id="navPoint-185" playOrder="185" class="chapter">
+            <navLabel>
+              <text>三、骨关节感染</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_182" />
+          </navPoint>
+          <navPoint id="navPoint-186" playOrder="186" class="chapter">
+            <navLabel>
+              <text>四、骨肿瘤与肿瘤样病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_183" />
+          </navPoint>
+          <navPoint id="navPoint-187" playOrder="187" class="chapter">
+            <navLabel>
+              <text>五、股骨头缺血性坏死</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_184" />
+          </navPoint>
+          <navPoint id="navPoint-188" playOrder="188" class="chapter">
+            <navLabel>
+              <text>六、退行性骨关节病</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_185" />
+          </navPoint>
+          <navPoint id="navPoint-189" playOrder="189" class="chapter">
+            <navLabel>
+              <text>七、脊柱病变</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_186" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190" class="chapter">
+          <navLabel>
+            <text>第五节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_187" />
+          <navPoint id="navPoint-191" playOrder="191" class="chapter">
+            <navLabel>
+              <text>病例一</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_188" />
+          </navPoint>
+          <navPoint id="navPoint-192" playOrder="192" class="chapter">
+            <navLabel>
+              <text>病例二</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_189" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-193" playOrder="193" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_190" />
+        </navPoint>
+        <navPoint id="navPoint-194" playOrder="194" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_191" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195" class="chapter">
+        <navLabel>
+          <text>第七章中枢神经系统</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_192" />
+        <navPoint id="navPoint-196" playOrder="196" class="chapter">
+          <navLabel>
+            <text>第一节颅脑</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_193" />
+          <navPoint id="navPoint-197" playOrder="197" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_194" />
+          </navPoint>
+          <navPoint id="navPoint-198" playOrder="198" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_195" />
+          </navPoint>
+          <navPoint id="navPoint-199" playOrder="199" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_196" />
+          </navPoint>
+          <navPoint id="navPoint-200" playOrder="200" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_197" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-201" playOrder="201" class="chapter">
+          <navLabel>
+            <text>第二节脊髓</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_198" />
+          <navPoint id="navPoint-202" playOrder="202" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_199" />
+          </navPoint>
+          <navPoint id="navPoint-203" playOrder="203" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_200" />
+          </navPoint>
+          <navPoint id="navPoint-204" playOrder="204" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_201" />
+          </navPoint>
+          <navPoint id="navPoint-205" playOrder="205" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_202" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-206" playOrder="206" class="chapter">
+          <navLabel>
+            <text>第三节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_203" />
+          <navPoint id="navPoint-207" playOrder="207" class="chapter">
+            <navLabel>
+              <text>病例一</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_204" />
+          </navPoint>
+          <navPoint id="navPoint-208" playOrder="208" class="chapter">
+            <navLabel>
+              <text>病例二</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_205" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-209" playOrder="209" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_206" />
+        </navPoint>
+        <navPoint id="navPoint-210" playOrder="210" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_207" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211" class="chapter">
+        <navLabel>
+          <text>第八章头颈部</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_208" />
+        <navPoint id="navPoint-212" playOrder="212" class="chapter">
+          <navLabel>
+            <text>第一节眼部</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_209" />
+          <navPoint id="navPoint-213" playOrder="213" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_210" />
+          </navPoint>
+          <navPoint id="navPoint-214" playOrder="214" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_211" />
+          </navPoint>
+          <navPoint id="navPoint-215" playOrder="215" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_212" />
+          </navPoint>
+          <navPoint id="navPoint-216" playOrder="216" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_213" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-217" playOrder="217" class="chapter">
+          <navLabel>
+            <text>第二节耳部</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_214" />
+          <navPoint id="navPoint-218" playOrder="218" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_215" />
+          </navPoint>
+          <navPoint id="navPoint-219" playOrder="219" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_216" />
+          </navPoint>
+          <navPoint id="navPoint-220" playOrder="220" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_217" />
+          </navPoint>
+          <navPoint id="navPoint-221" playOrder="221" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_218" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-222" playOrder="222" class="chapter">
+          <navLabel>
+            <text>第三节鼻与鼻窦</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_219" />
+          <navPoint id="navPoint-223" playOrder="223" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_220" />
+          </navPoint>
+          <navPoint id="navPoint-224" playOrder="224" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_221" />
+          </navPoint>
+          <navPoint id="navPoint-225" playOrder="225" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_222" />
+          </navPoint>
+          <navPoint id="navPoint-226" playOrder="226" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_223" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-227" playOrder="227" class="chapter">
+          <navLabel>
+            <text>第四节咽部</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_224" />
+          <navPoint id="navPoint-228" playOrder="228" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_225" />
+          </navPoint>
+          <navPoint id="navPoint-229" playOrder="229" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_226" />
+          </navPoint>
+          <navPoint id="navPoint-230" playOrder="230" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_227" />
+          </navPoint>
+          <navPoint id="navPoint-231" playOrder="231" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_228" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-232" playOrder="232" class="chapter">
+          <navLabel>
+            <text>第五节喉部</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_229" />
+          <navPoint id="navPoint-233" playOrder="233" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_230" />
+          </navPoint>
+          <navPoint id="navPoint-234" playOrder="234" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_231" />
+          </navPoint>
+          <navPoint id="navPoint-235" playOrder="235" class="chapter">
+            <navLabel>
+              <text>三、基本病变的影像表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_232" />
+          </navPoint>
+          <navPoint id="navPoint-236" playOrder="236" class="chapter">
+            <navLabel>
+              <text>四、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_233" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-237" playOrder="237" class="chapter">
+          <navLabel>
+            <text>第六节颈部</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_234" />
+          <navPoint id="navPoint-238" playOrder="238" class="chapter">
+            <navLabel>
+              <text>一、影像学检查方法</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_235" />
+          </navPoint>
+          <navPoint id="navPoint-239" playOrder="239" class="chapter">
+            <navLabel>
+              <text>二、正常影像学表现</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_236" />
+          </navPoint>
+          <navPoint id="navPoint-240" playOrder="240" class="chapter">
+            <navLabel>
+              <text>三、常见疾病的影像诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_237" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-241" playOrder="241" class="chapter">
+          <navLabel>
+            <text>第七节阅片实践</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_238" />
+        </navPoint>
+        <navPoint id="navPoint-242" playOrder="242" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_239" />
+        </navPoint>
+        <navPoint id="navPoint-243" playOrder="243" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_240" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244" class="chapter">
+        <navLabel>
+          <text>第九章超声诊断</text>
+        </navLabel>
+        <content src="Part02.xhtml#hanvon_toc_241" />
+        <navPoint id="navPoint-245" playOrder="245" class="chapter">
+          <navLabel>
+            <text>第一节肝胆胰脾</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_242" />
+          <navPoint id="navPoint-246" playOrder="246" class="chapter">
+            <navLabel>
+              <text>一、肝脏</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_243" />
+          </navPoint>
+          <navPoint id="navPoint-247" playOrder="247" class="chapter">
+            <navLabel>
+              <text>二、胆道系统</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_244" />
+          </navPoint>
+          <navPoint id="navPoint-248" playOrder="248" class="chapter">
+            <navLabel>
+              <text>三、胰腺</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_245" />
+          </navPoint>
+          <navPoint id="navPoint-249" playOrder="249" class="chapter">
+            <navLabel>
+              <text>四、脾脏</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_246" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-250" playOrder="250" class="chapter">
+          <navLabel>
+            <text>第二节泌尿系统与前列腺</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_247" />
+          <navPoint id="navPoint-251" playOrder="251" class="chapter">
+            <navLabel>
+              <text>一、肾脏、输尿管</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_248" />
+          </navPoint>
+          <navPoint id="navPoint-252" playOrder="252" class="chapter">
+            <navLabel>
+              <text>二、膀胱</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_249" />
+          </navPoint>
+          <navPoint id="navPoint-253" playOrder="253" class="chapter">
+            <navLabel>
+              <text>三、前列腺</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_250" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-254" playOrder="254" class="chapter">
+          <navLabel>
+            <text>第三节女性生殖系统</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_251" />
+          <navPoint id="navPoint-255" playOrder="255" class="chapter">
+            <navLabel>
+              <text>一、正常声像图</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_252" />
+          </navPoint>
+          <navPoint id="navPoint-256" playOrder="256" class="chapter">
+            <navLabel>
+              <text>二、生殖系统疾病的超声诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_253" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-257" playOrder="257" class="chapter">
+          <navLabel>
+            <text>第四节心血管系统</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_254" />
+          <navPoint id="navPoint-258" playOrder="258" class="chapter">
+            <navLabel>
+              <text>一、正常声像图</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_255" />
+          </navPoint>
+          <navPoint id="navPoint-259" playOrder="259" class="chapter">
+            <navLabel>
+              <text>二、常见心脏疾病的超声诊断</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_256" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-260" playOrder="260" class="chapter">
+          <navLabel>
+            <text>第五节浅表器官</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_257" />
+          <navPoint id="navPoint-261" playOrder="261" class="chapter">
+            <navLabel>
+              <text>一、眼部</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_258" />
+          </navPoint>
+          <navPoint id="navPoint-262" playOrder="262" class="chapter">
+            <navLabel>
+              <text>二、甲状腺</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_259" />
+          </navPoint>
+          <navPoint id="navPoint-263" playOrder="263" class="chapter">
+            <navLabel>
+              <text>三、乳腺</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_260" />
+          </navPoint>
+          <navPoint id="navPoint-264" playOrder="264" class="chapter">
+            <navLabel>
+              <text>四、阴囊</text>
+            </navLabel>
+            <content src="Part02.xhtml#hanvon_toc_261" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-265" playOrder="265" class="chapter">
+          <navLabel>
+            <text>学习拓展</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_262" />
+        </navPoint>
+        <navPoint id="navPoint-266" playOrder="266" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part02.xhtml#hanvon_toc_263" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-267" playOrder="267" class="chapter">
+      <navLabel>
+        <text>第三篇介入放射学</text>
+      </navLabel>
+      <content src="Part03.xhtml#hanvon_toc_264" />
+      <navPoint id="navPoint-268" playOrder="268" class="chapter">
+        <navLabel>
+          <text>第一章介入放射学简介</text>
+        </navLabel>
+        <content src="Part03.xhtml#hanvon_toc_265" />
+        <navPoint id="navPoint-269" playOrder="269" class="chapter">
+          <navLabel>
+            <text>第一节介入诊疗设备</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_266" />
+        </navPoint>
+        <navPoint id="navPoint-270" playOrder="270" class="chapter">
+          <navLabel>
+            <text>第二节介入诊疗器材与药物</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_267" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-271" playOrder="271" class="chapter">
+        <navLabel>
+          <text>第二章介入诊疗技术</text>
+        </navLabel>
+        <content src="Part03.xhtml#hanvon_toc_268" />
+        <navPoint id="navPoint-272" playOrder="272" class="chapter">
+          <navLabel>
+            <text>第一节血管性介入技术</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_269" />
+          <navPoint id="navPoint-273" playOrder="273" class="chapter">
+            <navLabel>
+              <text>一、Seldinger技术的原理及方法</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_270" />
+          </navPoint>
+          <navPoint id="navPoint-274" playOrder="274" class="chapter">
+            <navLabel>
+              <text>二、选择性和超选择性血管插管技术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_271" />
+          </navPoint>
+          <navPoint id="navPoint-275" playOrder="275" class="chapter">
+            <navLabel>
+              <text>三、经导管动脉药物灌注和栓塞术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_272" />
+          </navPoint>
+          <navPoint id="navPoint-276" playOrder="276" class="chapter">
+            <navLabel>
+              <text>四、经皮腔内血管成形术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_273" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-277" playOrder="277" class="chapter">
+          <navLabel>
+            <text>第二节非血管性介入技术</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_274" />
+          <navPoint id="navPoint-278" playOrder="278" class="chapter">
+            <navLabel>
+              <text>一、经皮穿刺技术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_275" />
+          </navPoint>
+          <navPoint id="navPoint-279" playOrder="279" class="chapter">
+            <navLabel>
+              <text>二、非血管腔道介入技术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_276" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-280" playOrder="280" class="chapter">
+          <navLabel>
+            <text>第三节中西医结合介入放射学</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_277" />
+          <navPoint id="navPoint-281" playOrder="281" class="chapter">
+            <navLabel>
+              <text>一、恶性肿瘤的介入治疗</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_278" />
+          </navPoint>
+          <navPoint id="navPoint-282" playOrder="282" class="chapter">
+            <navLabel>
+              <text>二、非肿瘤疾病的介入治疗</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_279" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-283" playOrder="283" class="chapter">
+        <navLabel>
+          <text>第三章常见疾病介入治疗简介</text>
+        </navLabel>
+        <content src="Part03.xhtml#hanvon_toc_280" />
+        <navPoint id="navPoint-284" playOrder="284" class="chapter">
+          <navLabel>
+            <text>第一节原发性肝癌</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_281" />
+          <navPoint id="navPoint-285" playOrder="285" class="chapter">
+            <navLabel>
+              <text>一、治疗方法</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_282" />
+          </navPoint>
+          <navPoint id="navPoint-286" playOrder="286" class="chapter">
+            <navLabel>
+              <text>二、适应证</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_283" />
+          </navPoint>
+          <navPoint id="navPoint-287" playOrder="287" class="chapter">
+            <navLabel>
+              <text>三、禁忌证</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_284" />
+          </navPoint>
+          <navPoint id="navPoint-288" playOrder="288" class="chapter">
+            <navLabel>
+              <text>四、疗效评价</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_285" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-289" playOrder="289" class="chapter">
+          <navLabel>
+            <text>第二节冠心病</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_286" />
+          <navPoint id="navPoint-290" playOrder="290" class="chapter">
+            <navLabel>
+              <text>一、治疗方法</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_287" />
+          </navPoint>
+          <navPoint id="navPoint-291" playOrder="291" class="chapter">
+            <navLabel>
+              <text>二、适应证</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_288" />
+          </navPoint>
+          <navPoint id="navPoint-292" playOrder="292" class="chapter">
+            <navLabel>
+              <text>三、禁忌证</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_289" />
+          </navPoint>
+          <navPoint id="navPoint-293" playOrder="293" class="chapter">
+            <navLabel>
+              <text>四、疗效评价</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_290" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-294" playOrder="294" class="chapter">
+          <navLabel>
+            <text>第三节脑血管疾病</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_291" />
+          <navPoint id="navPoint-295" playOrder="295" class="chapter">
+            <navLabel>
+              <text>一、脑动脉瘤</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_292" />
+          </navPoint>
+          <navPoint id="navPoint-296" playOrder="296" class="chapter">
+            <navLabel>
+              <text>二、脑动静脉畸形</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_293" />
+          </navPoint>
+          <navPoint id="navPoint-297" playOrder="297" class="chapter">
+            <navLabel>
+              <text>三、急性脑梗死</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_294" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-298" playOrder="298" class="chapter">
+          <navLabel>
+            <text>第四节输卵管阻塞性不孕症</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_295" />
+          <navPoint id="navPoint-299" playOrder="299" class="chapter">
+            <navLabel>
+              <text>一、适应证</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_296" />
+          </navPoint>
+          <navPoint id="navPoint-300" playOrder="300" class="chapter">
+            <navLabel>
+              <text>二、禁忌证</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_297" />
+          </navPoint>
+          <navPoint id="navPoint-301" playOrder="301" class="chapter">
+            <navLabel>
+              <text>三、技术要点</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_298" />
+          </navPoint>
+          <navPoint id="navPoint-302" playOrder="302" class="chapter">
+            <navLabel>
+              <text>四、疗效评价</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_299" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-303" playOrder="303" class="chapter">
+          <navLabel>
+            <text>第五节椎间盘突出症</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_300" />
+          <navPoint id="navPoint-304" playOrder="304" class="chapter">
+            <navLabel>
+              <text>一、经皮椎间盘摘除术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_301" />
+          </navPoint>
+          <navPoint id="navPoint-305" playOrder="305" class="chapter">
+            <navLabel>
+              <text>二、经皮椎间盘髓核溶解术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_302" />
+          </navPoint>
+          <navPoint id="navPoint-306" playOrder="306" class="chapter">
+            <navLabel>
+              <text>三、经皮椎间盘激光气化减压术</text>
+            </navLabel>
+            <content src="Part03.xhtml#hanvon_toc_303" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-307" playOrder="307" class="chapter">
+          <navLabel>
+            <text>学习小结</text>
+          </navLabel>
+          <content src="Part03.xhtml#hanvon_toc_304" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-308" playOrder="308" class="chapter">
+        <navLabel>
+          <text>参考文献</text>
+        </navLabel>
+        <content src="Part03.xhtml#hanvon_toc_305" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
